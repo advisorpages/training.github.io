@@ -8,11 +8,11 @@ end_time: "04:00:00"
 trainer: "Alex Johnson"
 mc: "Alex Johnson"
 closer: "Alex Johnson"
-promo_headline: "Stay tuned for our upcoming session!"
+promo_headline: "Elevate Your Financial Mastery with our Exclusive Training Session"
 ---
 
 ### 🔥 Promo Headline
-Stay tuned for our upcoming session!
+Elevate Your Financial Mastery with our Exclusive Training Session
 
 ### 📣 Promo Body
-Content coming soon.
+Our mission at our esteemed financial services agency is nothing less than your financial success. Every week, we lay bare the secrets of the trade in our exhilarating live training sessions, designed especially for you. This Wednesday, prepare yourself for an unforgettable journey through the dynamics of financial planning, tailored specifically to enhance your financial literacy and help you take control of your financial future. Join us and uncover the possibilities.
