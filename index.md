@@ -13,7 +13,7 @@
 > **{{ post.title }}**  
 > 📅 {{ post.date | date: "%A, %B %d" }}  
 > 🔥 {{ post.promo_headline | default: "Stay tuned for our upcoming session!" }}  
-> 👉 [View Details]({{ post.url }})
+> 👉 [View Details]({{ site.baseurl }}{{ post.url }})
 
 ---
 
