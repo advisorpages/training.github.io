@@ -12,7 +12,7 @@ Below are your next scheduled training sessions. Use the **Promo Copy** to invit
 {% assign sorted_pages = site.pages | sort: "date" %}
 {% assign found = false %}
 {% for post in sorted_pages %}
-  {% if post.path contains "training/" and post.name != "index.md" and post.date and post.date > site.time %}
+  {% if post.path contains "training/" and post.name != "index.md" and post.date and post.date | date: "%s" > site.time | date: "%s" %}
     {% assign found = true %}
 
 ## 🔹 [{{ post.title }}]({{ post.url }})
