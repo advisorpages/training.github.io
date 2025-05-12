@@ -9,7 +9,7 @@ Below are your next scheduled training sessions. Use the **Promo Copy** to invit
 
 ---
 
-{% assign upcoming = site.pages | where_exp: "item", "item.date > site.time" | sort: "date" %}
+{% assign upcoming = site.pages | where_exp: "item", "item.date | date: '%s' > site.time | date: '%s'" | sort: "date" %}
 {% if upcoming.size > 0 %}
 {% for post in upcoming %}
 ## 🔹 [{{ post.title }}]({{ post.url }})
