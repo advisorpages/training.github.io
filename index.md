@@ -15,7 +15,7 @@ Below are your next scheduled training sessions. Use the **Promo Copy** to invit
   {% if post.path contains "training/" and post.name != "index.md" and post.date and post.date | date: "%s" > site.time | date: "%s" %}
     {% assign found = true %}
 
-## 🔹 [{{ post.title }}]({{ post.path }})
+## 🔹 [{{ post.title }}]({{ post.path | relative_url }})
 🗓️ **Date:** {{ post.date | date: "%A, %B %d, %Y" }}  
 🎙️ **Trainer:** {{ post.trainer }}  
 🎤 **MC:** {{ post.mc }}  
@@ -24,7 +24,7 @@ Below are your next scheduled training sessions. Use the **Promo Copy** to invit
 > **{{ post.title }}**  
 > 📅 {{ post.date | date: "%A, %B %d" }}  
 > 🔥 {{ post.promo_headline }}  
-> 👉 [View Details]({{ post.path }})
+> 👉 [View Details]({{ post.path | relative_url }})
 
 ---
 
