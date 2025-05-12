@@ -19,7 +19,9 @@ Our mission at our esteemed financial services agency is nothing less than your 
 
 
 ### 🎯 Objectives
-
+- Gain confidence handling tough conversations
+- Master 5 objection-handling frameworks1
 
 ### 📚 Topics
-
+- Understanding root concerns
+- Reframing objections into opportunities
