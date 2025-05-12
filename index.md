@@ -1,18 +1,25 @@
+{% assign sorted_trainings = site.training | sort: "date" %}
+{% assign found = false %}
+{% for post in sorted_trainings %}
+  {% if post.date and post.date > site.time %}
+    {% assign found = true %}
+
+## 🔹 [{{ post.title }}]({{ post.url }})
+🗓️ **Date:** {{ post.date | date: "%A, %B %d, %Y" }}  
+🎙️ **Trainer:** {{ post.trainer }}  
+🎤 **MC:** {{ post.mc }}  
+🧾 **Promo Copy:**
+
+> **{{ post.title }}**  
+> 📅 {{ post.date | date: "%A, %B %d" }}  
+> 🔥 {{ post.promo_headline | default: "Stay tuned for our upcoming session!" }}  
+> 👉 [View Details]({{ post.url }})
+
 ---
-title: "Training Debug"
-layout: default
----
 
-# 🧪 Training Collection Debug
-
-**Total Items in Collection:** {{ site.training | size }}
-
-{% for post in site.training %}
----
-
-- **Title:** {{ post.title }}
-- **URL:** {{ post.url }}
-- **Date:** {{ post.date }}
-- **Trainer:** {{ post.trainer }}
-
+  {% endif %}
 {% endfor %}
+
+{% unless found %}
+## 🙅 No upcoming training sessions found.
+{% endunless %}
