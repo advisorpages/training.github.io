@@ -19,6 +19,11 @@ Below are your next scheduled training sessions. Use the **Promo Copy** to invit
 🗓️ **Date:** {{ post.date | date: "%A, %B %d, %Y" }}  
 🎙️ **Trainer:** {{ post.trainer }}  
 🎤 **MC:** {{ post.mc }}  
+🎯 **Category:** {{ post.category }}  
+
+### 🧠 What You’ll Learn
+{{ post.content | markdownify }}
+
 🧾 **Promo Copy:**
 
 > **{{ post.title }}**  
