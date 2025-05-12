@@ -1,7 +1,7 @@
 {% assign sorted_trainings = site.training | sort: "date" %}
 {% assign found = false %}
 {% for post in sorted_trainings %}
-  {% if post.date and post.date > site.time %}
+  {% if post.date and post.date | date: "%s" > "now" | date: "%s" %}
     {% assign found = true %}
 
 ## 🔹 [{{ post.title }}]({{ post.url }})
