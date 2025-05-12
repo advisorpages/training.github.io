@@ -1,5 +1,6 @@
 title: "Training"
-baseurl: "" # set to "" if this is your user/org page, or "/training" for project pages
+baseurl: "" # change to "/training" only if using project pages
+
 markdown: kramdown
 
 collections:
