@@ -1,5 +1,5 @@
 title: "Training"
-baseurl: "" # change to "/training" only if using project pages
+baseurl: ""  # or "/training" only for project pages
 
 markdown: kramdown
 
