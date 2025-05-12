@@ -1,38 +1,18 @@
 ---
-title: "Upcoming Training Sessions"
+title: "Training Debug"
 layout: default
 ---
 
-# 📆 Upcoming Training Sessions
+# 🧪 Training Collection Debug
 
-Below are your next scheduled training sessions. Use the **Promo Copy** to invite your team, post in chats, or promote on social. This list updates automatically as new trainings are added.
+**Total Items in Collection:** {{ site.training | size }}
 
+{% for post in site.training %}
 ---
 
-{% assign sorted_trainings = site.training | sort: "date" %}
-{% assign found = false %}
-{% for post in sorted_trainings %}
-  {% if post.date and post.date > site.time %}
-    {% assign found = true %}
+- **Title:** {{ post.title }}
+- **URL:** {{ post.url }}
+- **Date:** {{ post.date }}
+- **Trainer:** {{ post.trainer }}
 
-## 🔹 [{{ post.title }}]({{ post.url }})
-🗓️ **Date:** {{ post.date | date: "%A, %B %d, %Y" }}  
-🎙️ **Trainer:** {{ post.trainer }}  
-🎤 **MC:** {{ post.mc }}  
-🧾 **Promo Copy:**
-
-> **{{ post.title }}**  
-> 📅 {{ post.date | date: "%A, %B %d" }}  
-> 🔥 {{ post.promo_headline | default: "Stay tuned for our upcoming session!" }}  
-> 👉 [View Details]({{ post.url }})
-
----
-
-  {% endif %}
 {% endfor %}
-
-{% unless found %}
-## 🙅 No upcoming training sessions found.
-
-Stay tuned! New sessions are posted weekly.
-{% endunless %}
