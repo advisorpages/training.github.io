@@ -1,6 +1,8 @@
 ---
-title: "Upcoming Training Sessions"
 layout: default
+title: ...
+date: ...
+permalink: ...
 ---
 
 # 📆 Upcoming Training Sessions
