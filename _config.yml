@@ -1,1 +1,15 @@
-theme: minima
+title: "Training"
+baseurl: "" # set to "" if this is your user/org page, or "/training" for project pages
+markdown: kramdown
+
+collections:
+  training:
+    output: true
+    permalink: /training/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: training
+    values:
+      layout: default
