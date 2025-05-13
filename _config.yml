@@ -1,13 +1,13 @@
 title: "Training"
-baseurl: "/training"  # required for GitHub project pages
-url: "https://advisorpages.github.io"  # replace with your GitHub username
+baseurl: "/training"
+url: "https://advisorpages.github.io"
 
 markdown: kramdown
 
 collections:
   training:
     output: true
-    permalink: /:name/  # clean URL: /training/slug/
+    permalink: /:name/
 
 defaults:
   - scope:
