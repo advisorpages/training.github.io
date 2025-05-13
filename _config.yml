@@ -1,12 +1,13 @@
 title: "Training"
-baseurl: "/training"  # ← required for GitHub project pages
+baseurl: "/training"  # required for GitHub project pages like github.com/username/training
+url: "https://username.github.io"  # replace with your actual username/repo URL
 
 markdown: kramdown
 
 collections:
   training:
     output: true
-    permalink: /training/:name/
+    permalink: /:name/  # avoids duplicated /training/training/ paths
 
 defaults:
   - scope:
