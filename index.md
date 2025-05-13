@@ -5,7 +5,7 @@ layout: default
 
 # 📆 Upcoming Training Sessions
 
-Below are your next scheduled training sessions. Use the **Promo Copy** to invite your team, post in chats, or promote on social. This list updates automatically.
+Below are your next scheduled training sessions. This list updates automatically.
 
 ---
 
@@ -20,11 +20,8 @@ Below are your next scheduled training sessions. Use the **Promo Copy** to invit
 🗓️ **Date:** {{ post.date | date: "%A, %B %d, %Y" }}  
 🎙️ **Trainer:** {{ post.trainer }}  
 🎤 **MC:** {{ post.mc }}  
-🧾 **Promo Copy:**
 
-> **{{ post.title }}**  
-> 📅 {{ post.date | date: "%A, %B %d" }}  
-> 🔥 {{ post.promo_headline | default: "Stay tuned for our upcoming session." }}
+> 🔥 {{ post.promo_headline | default: "Stay tuned for more details!" }}
 
 ---
   {% endif %}
