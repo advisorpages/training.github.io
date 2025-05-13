@@ -5,37 +5,31 @@ layout: default
 
 # 📆 Upcoming Training Sessions
 
-Below are your next scheduled training sessions. Use the **Promo Copy** to invite your team, post in chats, or promote on social. This list updates automatically as new trainings are added.
+Below are your next scheduled training sessions. Use the **Promo Copy** to invite your team, post in chats, or promote on social. This list updates automatically.
 
 ---
 
-{% assign sorted_trainings = site.training | sort: "date" %}
+{% assign future_trainings = site.training | sort: "date" %}
 {% assign found = false %}
-{% for post in sorted_trainings %}
-  {% if post.date and post.date | date: "%s" > "now" | date: "%s" %}
+
+{% for post in future_trainings %}
+  {% if post.date and post.date > site.time %}
     {% assign found = true %}
 
-## 🔹 [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+## 🔹 [{{ post.title }}]({{ post.url }})
 🗓️ **Date:** {{ post.date | date: "%A, %B %d, %Y" }}  
 🎙️ **Trainer:** {{ post.trainer }}  
 🎤 **MC:** {{ post.mc }}  
-🎯 **Category:** {{ post.category }}  
-
-### 🧠 What You’ll Learn
-{{ post.content | markdownify }}
-
 🧾 **Promo Copy:**
 
 > **{{ post.title }}**  
 > 📅 {{ post.date | date: "%A, %B %d" }}  
-> 🔥 {{ post.promo_headline | default: "Stay tuned for our upcoming session!" }}  
-> 👉 [View Details]({{ site.baseurl }}{{ post.url }})
+> 🔥 {{ post.promo_headline | default: "Stay tuned for our upcoming session." }}
 
 ---
-
   {% endif %}
 {% endfor %}
 
 {% unless found %}
-## 🙅 No upcoming training sessions found.
+_No upcoming trainings found._
 {% endunless %}
