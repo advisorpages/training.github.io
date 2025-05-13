@@ -7,7 +7,7 @@ category: "OVERVIEW"
 trainer: "Alex Johnson"
 mc: "Alex Johnson"
 closer: "Alex Johnson"
-layout: training
+layout: default
 permalink: /training/become-a-pro-in-90-days/
 ---
 
