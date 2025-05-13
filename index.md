@@ -32,3 +32,4 @@ Below are your next scheduled training sessions.
 {% unless found %}
 _No upcoming trainings found._
 {% endunless %}
+
