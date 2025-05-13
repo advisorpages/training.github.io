@@ -5,15 +5,17 @@ layout: default
 
 # 📆 Upcoming Training Sessions
 
-Below are your next scheduled training sessions. This list updates automatically.
+Below are your next scheduled training sessions.
 
 ---
 
-{% assign future_trainings = site.training | sort: "date" %}
+{% assign sorted_trainings = site.training | sort: "date" %}
 {% assign found = false %}
 
-{% for post in future_trainings %}
-  {% if post.date and post.date > site.time %}
+{% for post in sorted_trainings %}
+  {% assign training_date = post.date | date: "%s" %}
+  {% assign now = site.time | date: "%s" %}
+  {% if training_date > now %}
     {% assign found = true %}
 
 ## 🔹 [{{ post.title }}]({{ post.url }})
@@ -21,7 +23,7 @@ Below are your next scheduled training sessions. This list updates automatically
 🎙️ **Trainer:** {{ post.trainer }}  
 🎤 **MC:** {{ post.mc }}  
 
-> 🔥 {{ post.promo_headline | default: "Stay tuned for more details!" }}
+> 🔥 {{ post.promo_headline | default: "Promo copy coming soon..." }}
 
 ---
   {% endif %}
