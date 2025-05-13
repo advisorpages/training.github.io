@@ -13,7 +13,7 @@ permalink: /training/become-a-pro-in-90-days/
 
 # 📆 Upcoming Training: Become a Pro in 90 Days!
 
-🗓️ **Date:** 2025-05-12  
+🗓️ **Date:** 2025-05-15  
 🕒 **Time:** 19:00:00 – 20:30:00  
 🎯 **Category:** OVERVIEW  
 🎙️ **Trainer:** Alex Johnson  
