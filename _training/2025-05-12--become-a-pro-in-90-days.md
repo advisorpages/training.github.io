@@ -1,6 +1,6 @@
 ---
 title: "Become a Pro in 90 Days!"
-date: "2025-05-12"
+date: "2025-05-15"
 start_time: "19:00:00"
 end_time: "20:30:00"
 category: "OVERVIEW"
