@@ -1,19 +1,19 @@
 ---
 title: "Become a Pro in 90 Days!"
-date: "2025-05-15"
+date: "2025-05-12"
 start_time: "19:00:00"
 end_time: "20:30:00"
 category: "OVERVIEW"
 trainer: "Alex Johnson"
 mc: "Alex Johnson"
 closer: "Alex Johnson"
-layout: default
+layout: training
 permalink: /training/become-a-pro-in-90-days/
 ---
 
 # 📆 Upcoming Training: Become a Pro in 90 Days!
 
-🗓️ **Date:** 2025-05-15  
+🗓️ **Date:** 2025-05-12  
 🕒 **Time:** 19:00:00 – 20:30:00  
 🎯 **Category:** OVERVIEW  
 🎙️ **Trainer:** Alex Johnson  
