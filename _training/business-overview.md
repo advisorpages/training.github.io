@@ -29,6 +29,8 @@ Come hang out with us at our live session: “Become a Pro in 90 Days!” We’l
 - **Time:** 19:00:00 – 20:30:00  
 - **Trainer Lineup:** Alex Johnson, Marcus Wong
 
+[🗓️ Add to Calendar](/training/ics/business-overview.ics)
+
 ---
 
 ## 🧩 Training Flow
