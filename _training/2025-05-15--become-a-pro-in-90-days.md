@@ -1,3 +1,12 @@
+---
+title: "Become a Pro in 90 Days!"
+date: "2025-05-15"
+start_time: "19:00:00"
+end_time: "20:30:00"
+layout: training
+permalink: /training/become-a-pro-in-90-days/
+---
+
 # 📆 Training: Become a Pro in 90 Days!
 🔥 Become a Pro in Just 90 Days!
 
