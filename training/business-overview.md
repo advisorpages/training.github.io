@@ -7,6 +7,8 @@ layout: default
 permalink: /training/business-overview/
 ---
 
+[🏠 Home](/training/) / **Business Overview**
+
 # 📆 Business Overview  
 🔥 **Become a Pro in Just 90 Days!**
 
