@@ -7,6 +7,8 @@
 {% if post.data.promo_body %}
 **What's This Session About?**  
 {{ post.data.promo_body }}
+<pre>{{ post | jsonify }}</pre>
+
 {% endif %}
 
 {% if post.data.topics and post.data.topics.size > 0 %}
