@@ -3,15 +3,3 @@ baseurl: "/training"
 url: "https://advisorpages.github.io"
 
 markdown: kramdown
-
-collections:
-  training:
-    output: true
-    permalink: /:name/
-
-defaults:
-  - scope:
-      path: ""
-      type: training
-    values:
-      layout: default
