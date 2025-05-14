@@ -1,4 +1,4 @@
-title: "" # Hide top-level site title
+title: ""
 baseurl: "/training"
 url: "https://advisorpages.github.io"
 
@@ -20,6 +20,9 @@ defaults:
       type: training
     values:
       layout: default
+
+include:
+  - _training
 
 exclude:
   - README.md
