@@ -7,6 +7,8 @@ layout: default
 permalink: /training/become-a-pro-in-90-days/
 ---
 
+[🏠 Home](/training/) / **Become a Pro in 90 Days!**
+
 # 📆 Become a Pro in 90 Days!  
 🔥 **Become a Pro in Just 90 Days!**
 
