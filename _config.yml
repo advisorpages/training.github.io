@@ -1,5 +1,26 @@
-title: "Training"
-baseurl: "/training"
-url: "https://advisorpages.github.io"
+title: "" # Empty to prevent big header from default theme
+baseurl: "/training" # Required for GitHub Pages subdirectory
+url: "https://advisorpages.github.io" # Your GitHub Pages root
+
+theme: jekyll-theme-primer
 
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+defaults:
+  - scope:
+      path: "training"
+      type: "pages"
+    values:
+      layout: default
+      permalink: /training/:name/
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - package.json
+  - yarn.lock
