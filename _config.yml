@@ -1,6 +1,6 @@
-title: "" # Empty to prevent big header from default theme
-baseurl: "/training" # Required for GitHub Pages subdirectory
-url: "https://advisorpages.github.io" # Your GitHub Pages root
+title: "" # Hide top-level site title
+baseurl: "/training"
+url: "https://advisorpages.github.io"
 
 theme: jekyll-theme-primer
 
@@ -9,13 +9,17 @@ kramdown:
   input: GFM
   hard_wrap: false
 
+collections:
+  training:
+    output: true
+    permalink: /training/:name/
+
 defaults:
   - scope:
-      path: "training"
-      type: "pages"
+      path: ""
+      type: training
     values:
       layout: default
-      permalink: /training/:name/
 
 exclude:
   - README.md
