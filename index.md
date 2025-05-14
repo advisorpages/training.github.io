@@ -2,19 +2,19 @@
 
 🗓️ **Date:** {{ post.date | date: "%A, %B %d, %Y" }}  
 🕒 **Time:** {{ post.start_time }} – {{ post.end_time }}  
-🎙️ **Trainer Lineup:** {{ post.trainer_lineup }}  
+🎙️ **Trainer Lineup:** {{ post.data.trainer_lineup }}
 
-{% if post.promo_body %}
+{% if post.data.promo_body %}
 **What's This Session About?**  
-{{ post.promo_body }}
+{{ post.data.promo_body }}
 {% endif %}
 
-{% if post.topics %}
+{% if post.data.topics and post.data.topics.size > 0 %}
 **Topics We'll Cover:**
 <ul>
-{% for topic in post.topics %}
-  <li>{{ topic }}</li>
-{% endfor %}
+  {% for topic in post.data.topics %}
+    <li>{{ topic }}</li>
+  {% endfor %}
 </ul>
 {% endif %}
 
