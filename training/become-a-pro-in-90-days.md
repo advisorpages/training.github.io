@@ -5,6 +5,10 @@ start_time: "19:00:00"
 end_time: "20:30:00"
 layout: default
 permalink: /training/become-a-pro-in-90-days/
+promo_body: "Ever thought about becoming a go-to money expert—or even running your own team across Canada?
+Come hang out with us at our live session: “Become a Pro in 90 Days!” We’ll break down exactly how you can start helping people with their finances, book solid appointments, and earn a pretty awesome training bonus—all in your first few months. No pressure, no confusing jargon—just real steps, real results, and a team that’s got your back."
+trainer_lineup: "Alex Johnson"
+topics: []
 ---
 
 [🏠 Home](/training/) / **Become a Pro in 90 Days!**
@@ -27,7 +31,17 @@ Come hang out with us at our live session: “Become a Pro in 90 Days!” We’l
 
 ## 🧩 Training Flow
 
-_No training flow available_
+### 📚 Module: Business Overview
+
+**Objectives:**
+- Showcase who we are as a company, what we do for middle income families and how we get paid. The goal of this is to identify potential clients who want a Financial Blueprint or interested in joining the team.
+
+---
+
+### 📚 Module: Orientation
+
+**Objectives:**
+- The goal of this training is to get new team mates off to a fast start. They will understand the field training process, what to say to setup quality appointments and how they can start earning $600-$2000 training bonus in under 90 days.
 
 ---
 
