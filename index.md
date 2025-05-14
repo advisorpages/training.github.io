@@ -9,7 +9,7 @@ Below are your next scheduled training sessions. This list updates automatically
 
 ---
 
-{% assign sorted_trainings = site.training | sort: "date" %}
+{% assign sorted_trainings = site.pages | where_exp: "p", "p.path contains 'training/'" | sort: "date" %}
 {% assign now = 'now' | date: "%s" %}
 {% assign found = false %}
 
@@ -20,7 +20,7 @@ Below are your next scheduled training sessions. This list updates automatically
 
 ---
 
-## 🔹 [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+## 🔹 [{{ post.title }}]({{ post.url }})
 
 🗓️ **Date:** {{ post.date | date: "%A, %B %d, %Y" }}  
 🕒 **Time:** {{ post.start_time }} – {{ post.end_time }}  
