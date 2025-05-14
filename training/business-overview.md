@@ -8,7 +8,9 @@ permalink: /training/business-overview/
 promo_body: "Ever thought about becoming a go-to money expert—or even running your own team across Canada?
 Come hang out with us at our live session: “Become a Pro in 90 Days!” We’ll break down exactly how you can start helping people with their finances, book solid appointments, and earn a pretty awesome training bonus—all in your first few months. No pressure, no confusing jargon—just real steps, real results, and a team that’s got your back."
 trainer_lineup: "Alex Johnson, Marcus Wong"
-topics: ["Reframing objections into opportunities","Understanding root concerns"]
+topics:
+  - "Reframing objections into opportunities"
+  - "Understanding root concerns"
 ---
 
 [🏠 Home](/training/) / **Business Overview**
