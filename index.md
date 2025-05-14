@@ -18,8 +18,6 @@ Below are your next scheduled training sessions. This list updates automatically
   {% if training_date > now %}
     {% assign found = true %}
 
----
-
 ## 🔹 [{{ post.title }}]({{ post.url | relative_url }})
 
 🗓️ **Date:** {{ post.date | date: "%A, %B %d, %Y" }}  
