@@ -1,3 +1,12 @@
+---
+title: "Business Overview"
+date: "2025-05-31"
+start_time: "19:00:00"
+end_time: "20:30:00"
+layout: training
+permalink: /training/business-overview/
+---
+
 # 📆 Training: Business Overview
 🔥 Become a Pro in Just 90 Days!
 
