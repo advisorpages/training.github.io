@@ -12,7 +12,7 @@ kramdown:
 collections:
   training:
     output: true
-    permalink: /training/:name/
+    permalink: /:name/
 
 defaults:
   - scope:
