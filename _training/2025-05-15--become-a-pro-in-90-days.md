@@ -1,90 +1,41 @@
----
-title: "Become a Pro in 90 Days!"
-date: "2025-05-15"
-start_time: "19:00:00"
-end_time: "20:30:00"
-category: "OVERVIEW"
-trainer: "Alex Johnson"
-mc: "Alex Johnson"
-closer: "Alex Johnson"
-layout: training
-permalink: /training/become-a-pro-in-90-days/
----
-
-# 📆 Upcoming Training: Become a Pro in 90 Days!
-
-🗓️ **Date:** 2025-05-15  
-🕒 **Time:** 19:00:00 – 20:30:00  
-🎯 **Category:** OVERVIEW  
-🎙️ **Trainer:** Alex Johnson  
-🎤 **MC:** Alex Johnson  
-✅ **Status:** UPCOMING  
-🏷️ **Tags:** Beginner  
-👥 **Audience:** CLIENTS, TEAM, GUESTS  
-📍 **Format:** INPERSON
-
----
-
-## 🔥 Promo Headline
-
-Become a Pro in Just 90 Days!
-
----
-
-## 📣 Promo Body
+# 📆 Training: Become a Pro in 90 Days!
+🔥 Become a Pro in Just 90 Days!
 
 Ever thought about becoming a go-to money expert—or even running your own team across Canada?
 Come hang out with us at our live session: “Become a Pro in 90 Days!” We’ll break down exactly how you can start helping people with their finances, book solid appointments, and earn a pretty awesome training bonus—all in your first few months. No pressure, no confusing jargon—just real steps, real results, and a team that’s got your back.
 
----
-
-## 💬 Client SMS
-
-> Hey! There’s a live session happening on May 12 at 7PM about how to get started in financial services and build something solid on the side. It’s beginner-friendly and gives a clear path on how to earn while learning. Thought you might find it valuable—want me to send you the link?
-
----
-
-## 💬 Team SMS
-
-> Hey! Quick reminder—there’s a live session on May 12 at 7PM that’s perfect for your new teammates. It walks through how to get started, book quality appointments, and earn a bonus in the first 90 days. Make sure they’re on—it’ll help them hit the ground running. Let me know if anyone needs the link.
+🗓️ Date: 2025-05-15
+🕒 Time: 19:00:00 – 20:30:00
+🎯 Category: OVERVIEW
+👥 Audience: CLIENTS, TEAM, GUESTS
+📍 Format: INPERSON
+✅ Status: UPCOMING
+🏷️ Tags: Beginner
+🧑‍🤝‍🧑 Trainer Lineup: Alex Johnson
 
 ---
 
-## 📡 Social Post
+## 🧩 Training Flow
 
-> Are you ready to become a financial pro in just 90 days? Join us on May 12 at 7:00 PM to learn how to secure a solid financial blueprint for yourself or your family. Don't miss out on this invaluable opportunity. #FinancialFreedom #Training #BecomeAPro
-
----
-
-## 🧠 What You'll Learn
-
-- 1) A clear roadmap on how to start as a financial guide—even if you’re brand new
-2) Our step-by-step field training system that helps you book quality appointments fast
-3) Pro tips for growing through your personal network (without being pushy)
-4) How to earn a training bonus in your first 90 days
-5) Insights on building your own team and becoming a business owner
-6) A behind-the-scenes look at how real people are building success from scratch
-7) Support from mentors who’ve actually done it—and are still doing it
-8) Tools & resources you’ll have access to (so you’re not figuring it out alone)
+_No training flow available_
 
 ---
 
-## 📚 Modules
+## 📢 Help Promote This Training
+Want to help spread the word? Here’s everything you need to invite others to this event.
 
+### 🔥 Promo Headline
+Become a Pro in Just 90 Days!
 
-### Business Overview
-- **Category:** OVERVIEW
-- **Summary:** _No summary_
-- **Objectives:**
-  - Showcase who we are as a company, what we do for middle income families and how we get paid. The goal of this is to identify potential clients who want a Financial Blueprint or interested in joining the team.
-- **Topics:**
-_No topics_
+### 📣 Promo Body
+Ever thought about becoming a go-to money expert—or even running your own team across Canada?
+Come hang out with us at our live session: “Become a Pro in 90 Days!” We’ll break down exactly how you can start helping people with their finances, book solid appointments, and earn a pretty awesome training bonus—all in your first few months. No pressure, no confusing jargon—just real steps, real results, and a team that’s got your back.
 
+### 💬 Client SMS
+Hey! There’s a live session happening on May 12 at 7PM about how to get started in financial services and build something solid on the side. It’s beginner-friendly and gives a clear path on how to earn while learning. Thought you might find it valuable—want me to send you the link?
 
-### Orientation
-- **Category:** OVERVIEW
-- **Summary:** _No summary_
-- **Objectives:**
-  - The goal of this training is to get new team mates off to a fast start. They will understand the field training process, what to say to setup quality appointments and how they can start earning $600-$2000 training bonus in under 90 days.
-- **Topics:**
-_No topics_
+### 💬 Team SMS
+Hey! Quick reminder—there’s a live session on May 12 at 7PM that’s perfect for your new teammates. It walks through how to get started, book quality appointments, and earn a bonus in the first 90 days. Make sure they’re on—it’ll help them hit the ground running. Let me know if anyone needs the link.
+
+### 📡 Social Post
+Are you ready to become a financial pro in just 90 days? Join us on May 12 at 7:00 PM to learn how to secure a solid financial blueprint for yourself or your family. Don't miss out on this invaluable opportunity. #FinancialFreedom #Training #BecomeAPro
