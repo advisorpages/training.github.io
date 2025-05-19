@@ -5,21 +5,17 @@ start_time: "19:00:00"
 end_time: "20:30:00"
 layout: default
 permalink: /training/business-overview/
-promo_body: "Ever thought about becoming a go-to money expert—or even running your own team across Canada?
-Come hang out with us at our live session: “Become a Pro in 90 Days!” We’ll break down exactly how you can start helping people with their finances, book solid appointments, and earn a pretty awesome training bonus—all in your first few months. No pressure, no confusing jargon—just real steps, real results, and a team that’s got your back."
-trainer_lineup: "Alex Johnson, Marcus Wong"
-topics:
-  - "Reframing objections into opportunities"
-  - "Understanding root concerns"
+promo_body: "We're excited to invite you to an exclusive 'Business Overview' event on Saturday, May 31 at 7:00 PM. This isn't just another networking opportunity—it's a chance to get an insider's perspective of our financial world, to understand our vision, and to see how our services can help you reach your financial goals. You'll get to meet our agents, ask questions, and walk away with a clearer picture of your financial future."
+trainer_lineup: "Alex Johnson"
+topics: []
 ---
 
 [🏠 Home](/training/) / **Business Overview**
 
 # 📆 Business Overview  
-🔥 **Become a Pro in Just 90 Days!**
+🔥 **Join Us for a Special Business Overview Event!**
 
-Ever thought about becoming a go-to money expert—or even running your own team across Canada?
-Come hang out with us at our live session: “Become a Pro in 90 Days!” We’ll break down exactly how you can start helping people with their finances, book solid appointments, and earn a pretty awesome training bonus—all in your first few months. No pressure, no confusing jargon—just real steps, real results, and a team that’s got your back.
+We're excited to invite you to an exclusive 'Business Overview' event on Saturday, May 31 at 7:00 PM. This isn't just another networking opportunity—it's a chance to get an insider's perspective of our financial world, to understand our vision, and to see how our services can help you reach your financial goals. You'll get to meet our agents, ask questions, and walk away with a clearer picture of your financial future.
 
 ---
 
@@ -27,7 +23,7 @@ Come hang out with us at our live session: “Become a Pro in 90 Days!” We’l
 
 - **Date:** Saturday, May 31  
 - **Time:** 19:00:00 – 20:30:00  
-- **Trainer Lineup:** Alex Johnson, Marcus Wong
+- **Trainer Lineup:** Alex Johnson
 
 [🗓️ Add to Calendar](/training/ics/business-overview.ics)
 
@@ -35,41 +31,32 @@ Come hang out with us at our live session: “Become a Pro in 90 Days!” We’l
 
 ## 🧩 Training Flow
 
-### 🧪 Exercise: Daily Prospecting Challenge
+### 📚 Module: Business Overview
 - **Trainer:** Alex Johnson
-- **Duration:** 70 minutes
+- **Duration:** 15 minutes
+
+**Objectives:**
+- Showcase who we are as a company, what we do for middle income families and how we get paid. The goal of this is to identify potential clients who want a Financial Blueprint or interested in joining the team.
 
 ---
 
-### 📚 Module: Mastering Objections1
-- **Trainer:** Marcus Wong
-- **Duration:** 40 minutes
-
-**Summary:**
-Handle objections like a pro and turn “no” into “yes”.
-
-**Objectives:**
-- Gain confidence handling tough conversations
-- Master 5 objection-handling frameworks1
-
-**Topics:**
-- Reframing objections into opportunities
-- Understanding root concerns
+### 🧪 Exercise: Practice Handling Objections
+- **Trainer:** Alex Johnson
+- **Duration:** 10 minutes
 
 ---
 
 ## 📢 Help Promote This Training
 
-**Become a Pro in Just 90 Days!**
+**Join Us for a Special Business Overview Event!**
 
-Ever thought about becoming a go-to money expert—or even running your own team across Canada?
-Come hang out with us at our live session: “Become a Pro in 90 Days!” We’ll break down exactly how you can start helping people with their finances, book solid appointments, and earn a pretty awesome training bonus—all in your first few months. No pressure, no confusing jargon—just real steps, real results, and a team that’s got your back.
+We're excited to invite you to an exclusive 'Business Overview' event on Saturday, May 31 at 7:00 PM. This isn't just another networking opportunity—it's a chance to get an insider's perspective of our financial world, to understand our vision, and to see how our services can help you reach your financial goals. You'll get to meet our agents, ask questions, and walk away with a clearer picture of your financial future.
 
 ### 💬 Text or DM Invites  
-> Hey! There’s a live session happening on May 12 at 7PM about how to get started in financial services and build something solid on the side. It’s beginner-friendly and gives a clear path on how to earn while learning. Thought you might find it valuable—want me to send you the link?
+> Hey there! You're invited to our 'Business Overview' event on May 31 at 7:00 PM. Come learn about our services and meet our awesome team. Can't wait to see you there!
 
 ### 💬 Remind Your Team  
-> Hey! Quick reminder—there’s a live session on May 12 at 7PM that’s perfect for your new teammates. It walks through how to get started, book quality appointments, and earn a bonus in the first 90 days. Make sure they’re on—it’ll help them hit the ground running. Let me know if anyone needs the link.
+> Team, remember we have our 'Business Overview' event on May 31. It's a great opportunity to connect with our clients and showcase our services. Let's make it a success!
 
 ### 📡 Social Post  
-Are you ready to become a financial pro in just 90 days? Join us on May 12 at 7:00 PM to learn how to secure a solid financial blueprint for yourself or your family. Don't miss out on this invaluable opportunity. #FinancialFreedom #Training #BecomeAPro
+Join us on May 31 for a special 'Business Overview' event! Get an insider's look at our financial services and see how we can help you secure your financial future. #BusinessOverview #FinancialServices #SecureYourFuture
