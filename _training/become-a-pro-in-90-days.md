@@ -5,7 +5,8 @@ start_time: "19:00:00"
 end_time: "20:30:00"
 layout: default
 permalink: /training/become-a-pro-in-90-days/
-promo_body: "123Dear Valued Client, we invite you to join us for an exclusive Business Overview on Saturday, May 31 at 7:00 PM. As we delve into the world of finance, we aim to empower you with knowledge and insights that can help you make informed financial decisions. Our goal is to make finance simple, understandable, and accessible—because we believe that everyone deserves to unlock their financial potential."
+promo_body: >
+  123Dear Valued Client, we invite you to join us for an exclusive Business Overview on Saturday, May 31 at 7:00 PM. As we delve into the world of finance, we aim to empower you with knowledge and insights that can help you make informed financial decisions. Our goal is to make finance simple, understandable, and accessible—because we believe that everyone deserves to unlock their financial potential.
 trainer_lineup: "Alex Johnson, Samantha Lee"
 topics:
   - "Reframing objections into opportunities"
