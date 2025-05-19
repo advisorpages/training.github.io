@@ -1,6 +1,6 @@
 ---
 title: "Become a Pro in 90 Days!"
-date: "2025-05-15T00:00:00.000Z"
+date: "2025-05-22T00:00:00.000Z"
 start_time: "19:00:00"
 end_time: "20:30:00"
 layout: default
@@ -24,7 +24,7 @@ topics:
 
 ### 🗓️ Event Details
 
-- **Date:** Thursday, May 15  
+- **Date:** Thursday, May 22  
 - **Time:** 19:00:00 – 20:30:00  
 - **Trainer Lineup:** Alex Johnson, Samantha Lee
 
