@@ -5,19 +5,19 @@ start_time: "19:00:00"
 end_time: "20:30:00"
 layout: default
 permalink: /training/become-a-pro-in-90-days/
-promo_body: "Ever thought about becoming a go-to money expert—or even running your own team across Canada?
-Come hang out with us at our live session: “Become a Pro in 90 Days!” We’ll break down exactly how you can start helping people with their finances, book solid appointments, and earn a pretty awesome training bonus—all in your first few months. No pressure, no confusing jargon—just real steps, real results, and a team that’s got your back."
-trainer_lineup: "Alex Johnson"
-topics: []
+promo_body: "123Dear Valued Client, we invite you to join us for an exclusive Business Overview on Saturday, May 31 at 7:00 PM. As we delve into the world of finance, we aim to empower you with knowledge and insights that can help you make informed financial decisions. Our goal is to make finance simple, understandable, and accessible—because we believe that everyone deserves to unlock their financial potential."
+trainer_lineup: "Alex Johnson, Samantha Lee"
+topics:
+  - "Reframing objections into opportunities"
+  - "Understanding root concerns"
 ---
 
 [🏠 Home](/training/) / **Become a Pro in 90 Days!**
 
 # 📆 Become a Pro in 90 Days!  
-🔥 **Become a Pro in Just 90 Days!**
+🔥 **Unlock Your Financial Potential: An Exclusive Business Overview123**
 
-Ever thought about becoming a go-to money expert—or even running your own team across Canada?
-Come hang out with us at our live session: “Become a Pro in 90 Days!” We’ll break down exactly how you can start helping people with their finances, book solid appointments, and earn a pretty awesome training bonus—all in your first few months. No pressure, no confusing jargon—just real steps, real results, and a team that’s got your back.
+123Dear Valued Client, we invite you to join us for an exclusive Business Overview on Saturday, May 31 at 7:00 PM. As we delve into the world of finance, we aim to empower you with knowledge and insights that can help you make informed financial decisions. Our goal is to make finance simple, understandable, and accessible—because we believe that everyone deserves to unlock their financial potential.
 
 ---
 
@@ -25,7 +25,7 @@ Come hang out with us at our live session: “Become a Pro in 90 Days!” We’l
 
 - **Date:** Thursday, May 15  
 - **Time:** 19:00:00 – 20:30:00  
-- **Trainer Lineup:** Alex Johnson
+- **Trainer Lineup:** Alex Johnson, Samantha Lee
 
 [🗓️ Add to Calendar](/training/ics/become-a-pro-in-90-days.ics)
 
@@ -33,32 +33,40 @@ Come hang out with us at our live session: “Become a Pro in 90 Days!” We’l
 
 ## 🧩 Training Flow
 
-### 📚 Module: Business Overview
-
-**Objectives:**
-- Showcase who we are as a company, what we do for middle income families and how we get paid. The goal of this is to identify potential clients who want a Financial Blueprint or interested in joining the team.
+### 🧪 Exercise: Practice Handling Objections
+- **Trainer:** Alex Johnson
+- **Duration:** 10 minutes
 
 ---
 
-### 📚 Module: Orientation
+### 📚 Module: Mastering Objections1
+- **Trainer:** Samantha Lee
+- **Duration:** 45 minutes
+
+**Summary:**
+Handle objections like a pro and turn “no” into “yes”.
 
 **Objectives:**
-- The goal of this training is to get new team mates off to a fast start. They will understand the field training process, what to say to setup quality appointments and how they can start earning $600-$2000 training bonus in under 90 days.
+- Gain confidence handling tough conversations
+- Master 5 objection-handling frameworks1
+
+**Topics:**
+- Reframing objections into opportunities
+- Understanding root concerns
 
 ---
 
 ## 📢 Help Promote This Training
 
-**Become a Pro in Just 90 Days!**
+**Unlock Your Financial Potential: An Exclusive Business Overview123**
 
-Ever thought about becoming a go-to money expert—or even running your own team across Canada?
-Come hang out with us at our live session: “Become a Pro in 90 Days!” We’ll break down exactly how you can start helping people with their finances, book solid appointments, and earn a pretty awesome training bonus—all in your first few months. No pressure, no confusing jargon—just real steps, real results, and a team that’s got your back.
+123Dear Valued Client, we invite you to join us for an exclusive Business Overview on Saturday, May 31 at 7:00 PM. As we delve into the world of finance, we aim to empower you with knowledge and insights that can help you make informed financial decisions. Our goal is to make finance simple, understandable, and accessible—because we believe that everyone deserves to unlock their financial potential.
 
 ### 💬 Text or DM Invites  
-> Hey! There’s a live session happening on May 12 at 7PM about how to get started in financial services and build something solid on the side. It’s beginner-friendly and gives a clear path on how to earn while learning. Thought you might find it valuable—want me to send you the link?
+> Hi, we're hosting a Business Overview on May 31 at 7 PM. We'd love for you to join us as we explore the world of finance. Looking forward to seeing you there!
 
 ### 💬 Remind Your Team  
-> Hey! Quick reminder—there’s a live session on May 12 at 7PM that’s perfect for your new teammates. It walks through how to get started, book quality appointments, and earn a bonus in the first 90 days. Make sure they’re on—it’ll help them hit the ground running. Let me know if anyone needs the link.
+> Team, we're hosting a Business Overview for our clients on May 31 at 7 PM. Let's make finance simple and accessible for everyone!
 
 ### 📡 Social Post  
-Are you ready to become a financial pro in just 90 days? Join us on May 12 at 7:00 PM to learn how to secure a solid financial blueprint for yourself or your family. Don't miss out on this invaluable opportunity. #FinancialFreedom #Training #BecomeAPro
+Join us for a Business Overview on May 31 at 7 PM! We're breaking down the world of finance to help you make informed decisions. Don't miss out! #FinancialEmpowerment #BusinessOverview
