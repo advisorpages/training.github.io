@@ -1,6 +1,6 @@
 ---
 title: "Business Overview"
-date: "2025-05-31T00:00:00.000Z"
+date: "2025-05-29T00:00:00.000Z"
 start_time: "19:00:00"
 end_time: "20:30:00"
 layout: default
@@ -22,7 +22,7 @@ We're excited to invite you to an exclusive 'Business Overview' event on Saturda
 
 ### 🗓️ Event Details
 
-- **Date:** Saturday, May 31  
+- **Date:** Thursday, May 29  
 - **Time:** 19:00:00 – 20:30:00  
 - **Trainer Lineup:** Alex Johnson
 
