@@ -5,7 +5,8 @@ start_time: "19:00:00"
 end_time: "20:30:00"
 layout: default
 permalink: /training/business-overview/
-promo_body: "We're excited to invite you to an exclusive 'Business Overview' event on Saturday, May 31 at 7:00 PM. This isn't just another networking opportunity—it's a chance to get an insider's perspective of our financial world, to understand our vision, and to see how our services can help you reach your financial goals. You'll get to meet our agents, ask questions, and walk away with a clearer picture of your financial future."
+promo_body: >
+  We're excited to invite you to an exclusive 'Business Overview' event on Saturday, May 31 at 7:00 PM. This isn't just another networking opportunity—it's a chance to get an insider's perspective of our financial world, to understand our vision, and to see how our services can help you reach your financial goals. You'll get to meet our agents, ask questions, and walk away with a clearer picture of your financial future.
 trainer_lineup: "Alex Johnson"
 topics: []
 ---
