@@ -1,9 +1,21 @@
 ---
-title: This Week's Trainings
-layout: default
+title: "This Week's Trainings"
+date: "2025-05-31"
 ---
 
-## Monday Session
-🗓️ May 30, 2025 – 6:00 PM  
-**Promo Headline:** Build Your Business  
-**Call to Action:** Join Us Live!
+## undefined
+🗓️ undefined | ⏰ undefined - undefined
+
+**Promo Headline**: —
+**CTA**: —
+
+---
+
+## undefined
+🗓️ undefined | ⏰ undefined - undefined
+
+**Promo Headline**: —
+**CTA**: —
+
+---
+
