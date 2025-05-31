@@ -1,5 +1,5 @@
-title: ""
-baseurl: "/training"
+title: "Weekly Training"
+baseurl: "/training"  # Repo name if you're using a project site like advisorpages.github.io/training
 url: "https://advisorpages.github.io"
 
 theme: jekyll-theme-primer
@@ -9,6 +9,8 @@ kramdown:
   input: GFM
   hard_wrap: false
 
+# No need for collections if you're using raw .md pages
+# But if you want to keep `_training` as a folder for generated files:
 collections:
   training:
     output: true
@@ -22,7 +24,7 @@ defaults:
       layout: default
 
 include:
-  - _training
+  - _training  # This allows GitHub Pages to include your subfolder
 
 exclude:
   - README.md
