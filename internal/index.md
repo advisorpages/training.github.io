@@ -11,10 +11,10 @@ Monday, June 2
 7:00 PM - 8:30 PM
 
 
-📍 **Location:** —  
+📍 **Location:** Acadia Office  
 🎯 **Format:** Inperson  
 👥 **Audience:** Clients, Team, Guests  
-🏷 **Category:** —  
+🏷 **Category:** Event  
 📋 **Status:** Upcoming
 
 ### Overview
@@ -66,10 +66,10 @@ Thursday, June 5
 7:00 PM - 8:00 PM
 
 
-📍 **Location:** —  
+📍 **Location:** 145 Royal Crest, Unit 44, Markham  
 🎯 **Format:** Inperson  
 👥 **Audience:** Clients, Team, Guests  
-🏷 **Category:** —  
+🏷 **Category:** Event  
 📋 **Status:** Upcoming
 
 ### Overview
