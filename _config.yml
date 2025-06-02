@@ -1,17 +1,20 @@
-title: "Weekly Training"
+title: ""
+description: "Live training agenda, details, and trainer view"
 url: "https://advisorpages.github.io"
-baseurl: ""  # empty because you're publishing to the root
+baseurl: ""  # Leave blank for root deployment
 
-theme: jekyll-theme-primer
+theme: jekyll-theme-slate  # Recommended for agenda + internal view
 
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
 
+# Include internal folder (for /internal/index.md)
 include:
-  - internal  # include this folder in the site output
+  - internal
 
+# Exclude these from build
 exclude:
   - README.md
   - Gemfile
