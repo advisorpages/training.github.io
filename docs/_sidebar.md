@@ -1,0 +1,3 @@
+- [Home](/README.md)
+- [Upcoming Training](/_training/index.md)
+- [Trainer Guide](/_training/internal.md)
