@@ -1,21 +1,34 @@
-<!-- rebuild trigger -->
+<!-- docs/index.html -->
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8" />
-  <title>Training Hub</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css" />
-</head>
-<body>
-  <div id="app">Loading...</div>
-  <script>
-    window.$docsify = {
-      name: 'Training Hub',
-      loadSidebar: true,
-      subMaxLevel: 2
-    };
-  </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      http-equiv="X-UA-Compatible"
+      content="IE=edge"
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1"
+    />
+    <title>Training Docs</title>
+    <!-- Docsify init -->
+    <script>
+      window.$docsify = {
+        name: 'Upcoming Training & Events',
+        repo: 'https://github.com/advisorpages/training',
+        loadSidebar: true,
+        homepage: 'README.md',
+        basePath: '/',
+      };
+    </script>
+    <link
+      rel="stylesheet"
+      href="//unpkg.com/docsify/themes/vue.css"
+    />
+  </head>
+  <body>
+    <div id="app"></div>
+    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  </body>
 </html>
