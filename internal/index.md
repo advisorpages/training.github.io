@@ -9,10 +9,9 @@ date: "2025-06-02"
 
 Investing with Canada Life
 
-Monday, June 2
-7:00 PM - 8:30 PM
-
 📍 **Location:** Acadia Office  
+🗓 **Date & Time:** Monday, June 2
+7:00 PM - 8:30 PM  
 🎯 **Format:** Inperson  
 👥 **Audience:** Clients, Team, Guests  
 🏷 **Category:** Event  
@@ -33,19 +32,44 @@ Biboy Brana, Elliott Pong, Jeanette Brana
 
 ### Segment Breakdown
 
-📚 **Canada Life Segregated Fund**  
-⏱ Duration: 45 mins  
-👤 Trainer: Elliott Pong
-
-
-📚 **Close**  
+🔹 **MODULE: Close**  
 ⏱ Duration: 20 mins  
 👤 Trainer: Biboy Brana
 
+**🎯 Objectives**  
+_None provided_
 
-📚 **Open**  
+**🧠 Topics**  
+_None provided_
+
+**📝 Summary**  
+_None provided_
+
+🔹 **MODULE: Open**  
 ⏱ Duration: 15 mins  
 👤 Trainer: Jeanette Brana
+
+**🎯 Objectives**  
+_None provided_
+
+**🧠 Topics**  
+_None provided_
+
+**📝 Summary**  
+_None provided_
+
+🔹 **MODULE: Canada Life Segregated Fund**  
+⏱ Duration: 45 mins  
+👤 Trainer: Elliott Pong
+
+**🎯 Objectives**  
+_None provided_
+
+**🧠 Topics**  
+_None provided_
+
+**📝 Summary**  
+_None provided_
 
 ### Promo Assets
 📢 **Social Post**  
@@ -64,19 +88,18 @@ Ready to empower your financial journey? Show up to our training this Tuesday an
 
 ## Freedom Thursday
 
- Join Us for Freedom Thursday 
-
-Thursday, June 5
-7:00 PM - 8:00 PM
+Join Us for Freedom Thursday
 
 📍 **Location:** 145 Royal Crest, Unit 44, Markham  
+🗓 **Date & Time:** Thursday, June 5
+7:00 PM - 8:00 PM  
 🎯 **Format:** Inperson  
 👥 **Audience:** Clients, Team, Guests  
 🏷 **Category:** Event  
 📋 **Status:** Upcoming
 
 ### Overview
- Get ready to be inspired and motivated at our Freedom Thursday event! This is not just any event, it's a recognition of our achievers, those who have pushed boundaries, shattered expectations, and set new benchmarks. Hear their stories, learn from their experiences, and find out how you too, can make big moves in your business. Whether you're a newbie, a seasoned pro, or someone looking for that spark to reignite your passion, Freedom Thursday is for you. 
+Get ready to be inspired and motivated at our Freedom Thursday event! This is not just any event, it's a recognition of our achievers, those who have pushed boundaries, shattered expectations, and set new benchmarks. Hear their stories, learn from their experiences, and find out how you too, can make big moves in your business. Whether you're a newbie, a seasoned pro, or someone looking for that spark to reignite your passion, Freedom Thursday is for you.
 
 ### What You’ll Learn
 1. Discover what it took for our winners to succeed in the past 30 days.
@@ -89,20 +112,21 @@ Thursday, June 5
 —
 
 ### Segment Breakdown
-⚠️ No segments available.
+
+
 
 ### Promo Assets
 📢 **Social Post**  
- 💫Success is not by chance, it's by choice. Come join us at #FreedomThursday and let's celebrate those who made the choice to win big! Hear their stories, find out what worked for them, and get motivated to set your own success story in motion. #CelebrateSuccess #AccelerateGrowth 
+💫Success is not by chance, it's by choice. Come join us at #FreedomThursday and let's celebrate those who made the choice to win big! Hear their stories, find out what worked for them, and get motivated to set your own success story in motion. #CelebrateSuccess #AccelerateGrowth
 
 📨 **Client SMS**  
- Hi [Client], Join us for Freedom Thursday! Hear first-hand from our top performers, learn from their experiences, and get ready to write your own success story. We look forward to seeing you there. 
+Hi [Client], Join us for Freedom Thursday! Hear first-hand from our top performers, learn from their experiences, and get ready to write your own success story. We look forward to seeing you there.
 
 👥 **Team SMS**  
- Hello Team, Let's gather to celebrate our achievers at Freedom Thursday! These are stories of persistence, courage, and success. Come, let's get inspired together to reach higher. See you there! 
+Hello Team, Let's gather to celebrate our achievers at Freedom Thursday! These are stories of persistence, courage, and success. Come, let's get inspired together to reach higher. See you there!
 
 👉 **Call to Action**  
- Mark your calendar for Freedom Thursday. Come celebrate, learn, and get inspired to take your business to the next level. Make sure to bring your team along. See you there!
+Mark your calendar for Freedom Thursday. Come celebrate, learn, and get inspired to take your business to the next level. Make sure to bring your team along. See you there!
 
 ---
 
