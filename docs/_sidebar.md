@@ -1,2 +1,2 @@
-<!-- docs/_sidebar.md -->
-* [Upcoming Training](index.md)
+* [🏠 Home](index.md)
+  * [Join Us for Freedom Thursday](index.md#join-us-for-freedom-thursday)
