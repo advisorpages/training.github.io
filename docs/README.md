@@ -1,5 +1,8 @@
 <!-- docs/README.md -->
 # Welcome
 
-This site is powered by AdvisorPages.  
-Use the sidebar to navigate generated pages.
+Stay updated on upcoming training and events.
+
+<span style="font-size:0.8em; color:#ccc;">
+  <a href="/training/internal/">Team Login</a>
+</span>
