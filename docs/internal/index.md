@@ -9,7 +9,7 @@ date: "2025-06-03"
   const unlocked = sessionStorage.getItem("accessGranted");
 
   if (!unlocked) {
-    if (urlPw === correctPassword) {x
+    if (urlPw === correctPassword) {
       sessionStorage.setItem("accessGranted", "true");
     } else {
       const entered = prompt("🔐 Enter internal access password:");
