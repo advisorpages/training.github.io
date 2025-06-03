@@ -1,4 +1,4 @@
-> 🧠 **Trainers Only**  
+> 🔐 **Internal Trainers Guide**  
 > 🗓️ **Generated:** 2025-06-03
 
 ## Join Us for Freedom Thursday
