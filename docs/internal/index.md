@@ -3,8 +3,6 @@ title: "Trainers Guide"
 date: "2025-06-03"
 ---
 
-[protect](protect.md ':include :no-cache :raw')
-
 # Trainers Guide
 
 ## Join Us for Freedom Thursday
